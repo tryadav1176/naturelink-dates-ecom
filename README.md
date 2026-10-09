@@ -96,11 +96,7 @@ npm run preview
    - **Output Directory**: `dist`
 5. Click **Deploy**. Done!
 
-On clicking the Deployments page
--see the listed projects 
--click on the project name 
--Dates-landing-page
-[Live](https://dates-landing-page.vercel.app/)
+[Live](https://naturelink-dates-ecom.vercel.app/)
 
 ---
 
